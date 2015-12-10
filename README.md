@@ -2,7 +2,7 @@
 From Python 2.5 src code.
 The realization of Python object extreme simplification
 
-the code support no other functionalities exclude the list items.
+the code support no other functionalities but the list items.
 <br>
 // a = 1<br>
 // b = 2 <br>
